@@ -1,0 +1,1 @@
+Hot to use git effectively
