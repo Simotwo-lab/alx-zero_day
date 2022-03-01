@@ -1,1 +1,1 @@
-Hot to use git effectively
+How to use git effectively
