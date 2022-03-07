@@ -1,17 +1,12 @@
-# Zero-Day : vi, Emacs and Vagrant
+# 0x03. Git
+This is my first repository with ALX Software Engineering program. 
 
-This repository consists of files written for vi, Emacs and Vagrant projects. The projects here included:
+It is an introduction on how to navigate around Git and GitHub account, creating repositories, commiting, pushing code, creating and merging branches and pulling updates.
 
-* [0x00. Vagrant](./0x00-vagrant)
-* [0x01. Emacs](./0x01-emacs)
-* [0x02. vi](./0x02-vi)
 
 ## Author
+* Simotwo Zainabu <[Simotwo-lab](https://github.com/Simotwo-lab)>
 
-* __Simotwo Zainabu__ <[Simotwo-lab](https://github.com/Simotwo-lab)>
-
-## Acknowledgements:
-
-All work contained in this project was completed as part of the curriculum for
-the ALX Software Engineering program. For more information, visit
+## Acknowledgements
+All work contained in this project was completed as part of the curriculum for the ALX Software Engineering program. For more information, visit
 [this link](https://www.alxafrica.com/).
