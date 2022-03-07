@@ -1,4 +1,4 @@
-# Zero-Day
+# Zero-Day : vi, Emacs and Vagrant
 
 This repository consists of files written for vi, Emacs and Vagrant projects. The projects here included:
 
